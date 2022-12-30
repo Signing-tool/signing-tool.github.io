@@ -12,8 +12,9 @@ IOS apple application IPA re-signature software can run on windows and macos sys
 Open the software, select the IPA file that needs to be signed, as well as the certificate and description file, fill in the certificate password, if you need to modify the app name and BundleID, you can modify it on the software, and then execute sign to complete the signature.
 
 # IPA Resign Tool URL:
-signing-tool.github.io
-Software running effect diagram:
-#![208939397-4ec32417-28d0-48cb-bec3-ae44b7975050](https://user-images.githubusercontent.com/118919847/210062570-4f13d475-24e8-4c1d-ad39-15578b11adba.png)
+https://signing-tool.github.io
+# Software running effect diagram:
+![208939397-4ec32417-28d0-48cb-bec3-ae44b7975050](https://user-images.githubusercontent.com/118919847/210062790-9b16ed84-9199-4b54-82cb-50b2b4f0000a.png)
+
 # IPA Resign Tool URL:
-signing-tool.github.io
+https://signing-tool.github.io
